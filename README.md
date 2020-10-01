@@ -12,6 +12,9 @@ The following steps are used to build the OpenPose.
 # Results
 - Extracts the Joint Point with its coresponding Joint Name and save it into .csv file
 - Calculate the Joint Angles and save these angles into .csv file
+<video width="640" height="352" controls>
+  <source src="Result/DetectionPose_1.mp4" type="video/mp4">
+</video>
 <img src = "Result/Img01.png" width = "432" height = "238">
 <br/>
 <img src = "Result/Img02.png" width = "430" height = "238">
