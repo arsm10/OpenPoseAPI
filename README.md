@@ -1,6 +1,7 @@
 # OpenPoseAPI
 In this project the OpenPose API is used by using C++. The Human motion is captured by a Mobile camera. The OpenPose repository is extracting from https://github.com/CMU-Perceptual-Computing-Lab/openpose.git.</br>
-The human skeleton is detected and extracting 2D points of the human skeletons in "Image Co-ordinates". The co-ordinates are further used for the joint angle calculations. The following enviroment is used to build the OpenPose API.</br>
+The human skeleton is detected and extracting 2D points of the human skeletons in "Image Co-ordinates". The co-ordinates are further used for the joint angle calculations. I integrate this API with my JointAngle() function which can calculate the angle between the bpdy joints.</br>
+The following enviroment is used to build the OpenPose API.
 - Visual Studio 2017
 - OpenCV 4.2.0 https://github.com/opencv/opencv.git
 # Build OpenPose
