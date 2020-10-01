@@ -12,4 +12,11 @@ The following steps are used to build the OpenPose.
 # Results
 - Extracts the Joint Point with its coresponding Joint Name and save it into .csv file
 - Calculate the Joint Angles and save these angles into .csv file
-[![SC2 Video]()]
+<img src = "Result/Img01.png" width = "432" height = "238">
+<br/>
+<img src = "Result/Img02.png" width = "430" height = "238">
+<br/>
+<img src = "Result/Img03.png" width = "436" height = "239">
+<br/>
+<img src = "Result/Img04.png" width = "237" height = "432">
+<br/>
