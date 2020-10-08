@@ -8,7 +8,7 @@ The following enviroment is used to build the OpenPose API.
 The following steps are used to build the OpenPose.
 - The extracting OpenPose repository is build by using CMake
 - After successfully build, Goto the "build Folder" and open OpenPose.sln
-- "Solution Explorer" is on the right side of the Visual Studio window. Click on "Examples", then "Tuturial" and then "C++ API".
+- "Solution Explorer" is on the right side of the Visual Studio window. Click on "Examples", then "Tutorial" and then "C++ API".
 - In "C++ API", there are severals example. This projects use "03_keypoints_from_image". Right click on the "03_keypoints_from_image" and made it "Set as Startup Project".
 # Results
 - Extracts the Joint Point with its coresponding Joint Name and save it into .csv file
