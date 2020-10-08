@@ -12,12 +12,9 @@ The following steps are used to build the OpenPose.
 - In "C++ API", there are severals example. This projects use "03_keypoints_from_image". Right click on the "03_keypoints_from_image" and made it "Set as Startup Project".
 # Results
 - Extracts the Joint Point with its coresponding Joint Name and save it into .csv file
-- Calculate the Joint Angles and save these angles into .csv file
-<img src = "Result/Img01.png" width = "432" height = "238">
-<br/>
-<img src = "Result/Img02.png" width = "430" height = "238">
-<br/>
-<img src = "Result/Img03.png" width = "436" height = "239">
-<br/>
+- Calculate the Joint Angles and save these angles into .csv file<br/><br/>
+<img src="Result/SkeletonDetection_AngleCalculation.gif" width = "432" height = "238" /><br/><br/>
+<img src = "Result/Img01.png" width = "432" height = "238"><br/><br/>
+<img src = "Result/Img02.png" width = "430" height = "238"><br/><br/>
+<img src = "Result/Img03.png" width = "436" height = "239"><br/><br/>
 <img src = "Result/Img04.png" width = "237" height = "432">
-<br/>
